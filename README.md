@@ -39,6 +39,7 @@ wb_carbon_prices.csv	World Bank Carbon Pricing Dashboard data, columns initiativ
 No cell generates random, synthetic or sample data. If a source fails, the notebook stops with an explicit message. The only randomness is the bootstrap resampling, controlled by SEED.
 
 5. How to run
+
 Open the notebook in Colab with a CPU runtime and upload the Aqueduct zip to /content.
 Run the cells in order (Runtime → Run all). §E prints a coverage report of every series; check it before reading the results.
 To obtain the main results first, set RUN_F4 = False and RUN_F6 = False, run everything, and later set them to True and run only those cells and §F7. The cells after §F4 and §F6 do not depend on them, except the export in §F7, which writes their tables only if they exist.

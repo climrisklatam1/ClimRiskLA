@@ -1,2 +1,6 @@
-# ClimRiskLA
-ClimRisk-LATAM. Notebook for Replication the paper: "Climate-Conditioned Robust Portfolios in Latin American Equity Markets"
+# Clim-Risk LATAM
+## ClimRisk-LA. Notebook for replicating the paper: Climate-Conditioned Robust Portfolios in Latin American Equity Markets."
+
+
+
+

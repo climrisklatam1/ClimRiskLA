@@ -1,6 +1,6 @@
 # ClimRisk-LATAM: climate-conditioned robust portfolios in Latin American equity markets
 
-Replication notebook for the paper *Climate-Conditioned Robust Portfolios in Latin American Equity Markets*. Notebook file: `ClimRisk_LATAM.ipynb`.
+Replication notebook for the paper *Climate-Conditioned Robust Portfolios in Latin American Equity Markets*. Notebook file: `ClimRisk_LATAM_v2.ipynb`.
 
 The notebook builds the model, downloads the data, runs the out-of-sample evaluation and exports every table and figure used in the paper. It is self-contained: each section starts with the theory it implements, and all intermediate results are printed as they are computed.
 
